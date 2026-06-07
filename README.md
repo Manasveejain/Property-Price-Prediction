@@ -87,7 +87,7 @@ The models were evaluated using:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/california-house-price-prediction.git
+git clone [https://github.com/Manasveejain/Property-Price-Prediction]
 ```
 
 Install dependencies:
